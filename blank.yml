@@ -1,0 +1,16 @@
+name: Segundo action
+
+on:
+  push:
+
+jobs:
+  teste:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar codigo
+        uses: actions/checkout@v4
+
+      - name: Executar teste
+        run: echo "sera que funciona"
+        
