@@ -2,7 +2,7 @@ name: Changelog
 
 on:
   push:
-    branches: [master, feat/changelog-em-arquivo]
+    branches: [master]
   workflow_dispatch:
 
 permissions:
