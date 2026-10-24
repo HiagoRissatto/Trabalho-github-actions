@@ -1,5 +1,6 @@
 # Changelog
 
+- feat: documentação do projeto pelo readme.md (Danilo Augusto Maia, 2026-10-24)
 - adicionando release.yml (Hiago Rissatto, 2026-10-22)
 - Adicionando alunos no readme (Hiago Rissatto, 2026-10-22)
 - fix: restaura gatilho apenas para master (Danilo Augusto Maia, 2026-10-22)
